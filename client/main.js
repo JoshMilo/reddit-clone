@@ -1,1 +1,1 @@
-Meteor.subscribe('allPosts');
+//Meteor.subscribe('allPosts');
